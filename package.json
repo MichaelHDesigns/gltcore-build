@@ -1,17 +1,17 @@
 {
-  "name": "bitcore-build",
+  "name": "gltcore-build",
   "version": "0.8.0",
-  "description": "A helper for common tasks to build bitcore modules'",
+  "description": "A helper for common tasks to build gltcore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/bitcore-build"
+    "url": "git://github.com/globaltoken/gltcore-build"
   },
   "keywords": [
-    "bitcore"
+    "gltcore"
   ],
   "contributors": [
     {
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-build/issues"
+    "url": "https://github.com/globaltoken/gltcore-build/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-build",
+  "homepage": "https://github.com/globaltoken/gltcore-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
