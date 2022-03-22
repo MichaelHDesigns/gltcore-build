@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/globaltoken/gltcore-build"
+    "url": "https://github.com/globaltoken/gltcore-build"
   },
   "keywords": [
     "gltcore"
